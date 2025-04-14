@@ -114,16 +114,16 @@ function touchEnded(){
 
 function openLink(){
   if (storyCounter == 7){
-    window.location.href = ('https://www.youtube.com/watch?v=dQw4w9WgXcQ');
+    window.location.href = ('https://jmonk603.github.io/DAndDExperienceP4/');
   }
   if (storyCounter == 9){
-    window.location.href = ('https://www.youtube.com/watch?v=dQw4w9WgXcQ');
+    window.location.href = ('https://jmonk603.github.io/DAndDExperienceP4/');
   }
   if (storyCounter == 17){
-    window.location.href = ('https://www.youtube.com/watch?v=dQw4w9WgXcQ');
+    window.location.href = ('https://jmonk603.github.io/DAndDExperienceP4/');
   }
   if (storyCounter == 15){
-    window.location.href = ('https://www.youtube.com/watch?v=dQw4w9WgXcQ');
+    window.location.href = ('https://jmonk603.github.io/DAndDExperienceP4/');
   }
 }
 
